@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Failed Bank Report
 =======
 # Failed Bank — Power BI Report
@@ -60,4 +60,4 @@ Created by **Kidus Yosef**
 ---
 
 ## 📂 Project Files
->>>>>>> db3f35a81ae590b6ea2858a2c5f5f0c342c2468c
+
