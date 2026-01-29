@@ -37,7 +37,7 @@ It covers:
 ---
 
 ## 📸 Report Preview
-![Failed Bank Report Preview](screenshots/report_preview.png)
+![Failed Bank Report Preview](report_preview.png)
 
 ---
 
