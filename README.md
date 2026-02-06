@@ -3,7 +3,7 @@
 =======
 # Failed Bank — Power BI Report
 
-This repository contains a Power BI report analyzing **failed banks in the United States**, inspired by [this YouTube tutorial](https://www.youtube.com/live/c-zlMcdIqk0?si=y5J0WYqzC8CrkG0p).  
+This repository contains a Power BI report analyzing **failed banks in the United ስታተስ.
 The report explores historical data on bank failures while demonstrating key Power BI skills and workflows.
 
 ---
